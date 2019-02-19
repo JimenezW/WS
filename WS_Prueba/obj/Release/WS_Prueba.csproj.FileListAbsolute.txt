@@ -1,0 +1,7 @@
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\WS_Prueba.dll.config
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\WS_Prueba.dll
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\WS_Prueba.pdb
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\obj\Release\WS_Prueba.csprojAssemblyReference.cache
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\obj\Release\WS_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\obj\Release\WS_Prueba.dll
+C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\obj\Release\WS_Prueba.pdb
