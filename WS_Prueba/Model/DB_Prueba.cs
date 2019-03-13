@@ -10,6 +10,7 @@ namespace WS_Prueba.Model
         }
 
         public virtual DbSet<Persona> Personas { get; set; }
+        public virtual DbSet<Pais> Pais { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

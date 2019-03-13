@@ -20,6 +20,8 @@ namespace WS_Prueba
 
         [OperationContract]
         string GuardarPersona(string Identidicador, string Nombre, int Edad);
+        [OperationContract]
+        string GuardaPais(string Nombre, string Abreviatura);
     }
 
     [DataContract]

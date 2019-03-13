@@ -5,6 +5,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using WS_Prueba.IWS;
 using WS_Prueba.Model;
 
 namespace WS_Prueba
@@ -16,7 +17,6 @@ namespace WS_Prueba
         public Persona ObtenerPersona(string Identificacion)
         {
             DB_Prueba db = new DB_Prueba();
-
             if (Identificacion == "1")
             {
                 var ele = db.Personas.Find(Convert.ToInt32(Identificacion));
@@ -77,5 +77,29 @@ namespace WS_Prueba
             }
             return tem;
         }
+
+        public string GuardaPais(string Nombre, string Abreviatura)
+        {
+
+            try
+            {
+                Pais p = new Pais();
+                p.Nombre = Nombre;
+                p.abreviatura = Abreviatura;
+
+                DB_Prueba db = new DB_Prueba();
+
+                db.Pais.Add(p);
+                db.SaveChanges();
+                return "Almacenamiento exitoso";
+            }catch(Exception ex)
+            {
+                return "Error: "+ex.Message;
+
+            }
+
+
+        }
+
     }
 }

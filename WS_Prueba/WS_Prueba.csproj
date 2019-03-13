@@ -75,7 +75,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IWS\IWS_Pais.cs" />
     <Compile Include="Model\DB_Prueba.cs" />
+    <Compile Include="Model\Domicilio.cs" />
+    <Compile Include="Model\Pais.cs" />
     <Compile Include="Model\Persona.cs" />
     <Compile Include="WSPersonas.svc.cs">
       <DependentUpon>WSPersonas.svc</DependentUpon>

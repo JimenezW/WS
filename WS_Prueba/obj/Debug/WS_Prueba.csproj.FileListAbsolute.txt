@@ -10,3 +10,15 @@ C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\En
 C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\EntityFramework.xml
 C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\bin\EntityFramework.SqlServer.xml
 C:\Users\Miguel\documents\visual studio 2017\Projects\WS_Prueba\WS_Prueba\obj\Debug\WS_Prueba.csproj.CopyComplete
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\WS_Prueba.dll.config
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\WS_Prueba.dll
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\WS_Prueba.pdb
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\EntityFramework.dll
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\EntityFramework.SqlServer.dll
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\EntityFramework.xml
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\bin\EntityFramework.SqlServer.xml
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\obj\Debug\WS_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\obj\Debug\WS_Prueba.csproj.CopyComplete
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\obj\Debug\WS_Prueba.dll
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\obj\Debug\WS_Prueba.pdb
+C:\Users\Miguel\Documents\Visual Studio 2017\Projects\WS_Prueba\WS\WS_Prueba\obj\Debug\WS_Prueba.csprojAssemblyReference.cache
